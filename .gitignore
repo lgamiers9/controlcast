@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 데이터 (대회 제공 파일, 용량 커서 git에 안 올림 - 위치는 팀 회의에서 논의 예정)
+data/*.csv
+data/*.zip
+**/data/*.csv
+**/data/*.zip
