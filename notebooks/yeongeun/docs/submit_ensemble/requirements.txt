@@ -1,0 +1,6 @@
+# pandas==2.0.3, scikit-learn==1.8.0, joblib==1.5.3 는 평가 서버 기본 설치 버전과
+# 로컬 학습 환경(.venv)이 동일하게 맞춰져 있어 별도로 적지 않음 (COMPETITION_RULES.md 5번 참고).
+# HistGradientBoostingClassifier는 scikit-learn 기본 제공이라 별도 패키지 불필요.
+xgboost==3.2.0
+lightgbm==4.7.0
+catboost==1.2.10
